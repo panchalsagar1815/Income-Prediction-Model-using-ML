@@ -1,6 +1,5 @@
 # Income-Prediction-Model-using-ML
 
-
 The "Household Income Analysis" project is a comprehensive study focused on understanding the determinants of household income. This project explores a diverse set of features, including age, work class, education level, education duration, marital status, occupation, relationship dynamics, race, gender, capital gain, capital loss, hours worked per week, native country, and income.
 
 Through a thorough examination of these features, the project aims to identify patterns and correlations that contribute to variations in household income. By employing advanced statistical analysis and machine learning techniques, the study seeks to unveil insights into the socioeconomic factors influencing income levels within households.
