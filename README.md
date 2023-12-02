@@ -6,4 +6,4 @@ Through a thorough examination of these features, the project aims to identify p
 
 The analysis not only provides a nuanced understanding of the impact of individual and demographic factors on income but also offers practical implications for policymakers, economists, and social scientists. This project serves as a valuable resource for decision-makers to formulate targeted policies, address income disparities, and design interventions aimed at fostering economic well-being.
 
-The "Household Income Analysis" project strives to contribute to a broader understanding of income dynamics, facilitating informed discussions and actions to promote economic equity and prosperity.
+
